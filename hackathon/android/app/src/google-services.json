@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099232415323",
+    "project_id": "cyberbullying-a45ab",
+    "storage_bucket": "cyberbullying-a45ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099232415323:android:6c1ad8ac8126f8b4dcb97e",
+        "android_client_info": {
+          "package_name": "your.example.Hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099232415323-4476h3uhns05co0244g865073qspo2bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIv3kK7VKz8XJKK52XOcU28DVFKPXKEsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099232415323-4476h3uhns05co0244g865073qspo2bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
